@@ -44,5 +44,5 @@
   "devDependencies": {
     "@types/react-dom": "^17.0.9"
   },
-  "homepage": "https://bingl2.github.io/movie_app"
+  "homepage": "https://bingl2.github.io/movie_app/"
 }
